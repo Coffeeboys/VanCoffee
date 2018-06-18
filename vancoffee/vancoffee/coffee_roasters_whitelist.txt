@@ -1,6 +1,5 @@
 Roaster,URL
 groundswell coffee roasters,groundswellroasters.com
-east van coffee roasters,eastvanroasters.com
 timbertrain coffee roasters,timbertraincoffeeroasters.com
 elysian coffee roasters,elysiancoffee.com
 bows & arrows coffee,bowsandarrowscoffee.com
